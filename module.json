@@ -1,0 +1,28 @@
+{
+  "name": "bid-it",
+  "title": "Blades in the Dark - Translations (Ita)",
+  "description": "Traduzione del sistema Blades in the Dark",
+  "version": "1.0.0",
+  "author": "RaurosHuntor",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.8.9",
+  "url": "https://github.com/Rauros1992/BiD-it",
+  "download": "https://github.com/Rauros1992/BiD-it/-/archive/main/bid-fr-main.zip",
+  "manifest": "https://github.com/Rauros1992/BiD-it/-/raw/main/module.json",
+  
+  "languages" : [
+       {
+          "lang" : "it",
+          "name" : "Italiano",
+          "path" : "it.json"
+       }
+              ],
+  
+  "dependencies" : [
+{
+  "name": "babele",
+  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+}
+]
+ 
+}
