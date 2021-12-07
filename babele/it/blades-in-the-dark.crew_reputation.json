@@ -1,0 +1,85 @@
+{
+  "label": "Reputazione della banda",
+  "entries": [
+    {
+      "id": "Alluring",
+      "name": "Allettanti",
+      "description": ""
+    },
+    {
+      "id": "Ambitious",
+      "name": "Ambiziosi",
+      "description": ""
+    },
+    {
+      "id": "Brutal",
+      "name": "Brutali",
+      "description": ""
+    },
+    {
+      "id": "Cruel",
+      "name": "Crudeli",
+      "description": ""
+    },
+    {
+      "id": "Daring",
+      "name": "Audaci",
+      "description": ""
+    },
+    {
+      "id": "Ferocious",
+      "name": "Feroci",
+      "description": ""
+    },
+    {
+      "id": "Honorable",
+      "name": "Onorevoli",
+      "description": ""
+    },
+    {
+      "id": "Monstrous",
+      "name": "Mostruosi",
+      "description": ""
+    },
+    {
+      "id": "Professional",
+      "name": "Professionisti",
+      "description": ""
+    },
+    {
+      "id": "Radiant",
+      "name": "Radiosi",
+      "description": ""
+    },
+    {
+      "id": "Savvy",
+      "name": "Esperti",
+      "description": ""
+    },
+    {
+      "id": "Serene",
+      "name": "Sereni",
+      "description": ""
+    },
+    {
+      "id": "Sinister",
+      "name": "Sinistri",
+      "description": ""
+    },
+    {
+      "id": "Strange",
+      "name": "Strani",
+      "description": ""
+    },
+    {
+      "id": "Subtle",
+      "name": "Delicati",
+      "description": ""
+    },
+    {
+      "id": "Transcendent",
+      "name": "Trascendenti",
+      "description": ""
+    }
+  ]
+}

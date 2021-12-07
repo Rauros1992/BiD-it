@@ -1,0 +1,44 @@
+{
+	"label": "Vizi",
+"mapping": {
+        "description": "data.description"
+ 	   },
+
+	"entries": [
+		{
+			"id": "Faith",
+			"name": "Fede",
+			"description":"- Madre Narya, Casa della Donna Lacrimosa, le Sei Torri - Ilacille, le rovine del Tempio del dio perduto, Coalridge. - Nelisanne, La Chiesa dell’Estasi della Carne, Brightstone. - Lord Penderyn, l’Archivio degli Echi, Charterhall."
+		},
+		{
+			"id": "Gambling",
+			"name": "Azzardo",
+			"description":"- Da Spogg, gioco di dadi, Crow’s Foot. - Grist, pugilato, il Porto. - Helene, casinò Cervo Argentato Silkshore. - Master Vreen, corse di segugi, Nightmarket. - Lady Dusk, il Circolo di Dusk, Whitecrown. - Sergeant Velk, le arene da combattimento, Dunslough."
+		},
+		{
+			"id": "Luxury",
+			"name": "Lusso",
+			"description":"- Singer, bagni pubblici, Crow’s Foot. - Harvale Brogan, il Centuralia, locale, Brightstone. - Da Travern negozio di fumo, Coalridge. - Dunridge & Figli stoffe pregiate e sartoria, Nightmarket. - Chef Roselle, il ristorante Prugna Dorata, Le Sei Torri. - Maestro Helleren, Teatro di Spiregarden, Whitecrown"
+		},
+		{
+			"id": "Obligation",
+			"name": "Devozione",
+			"description":"- Parenti (retaggio) o ex-colleghi (background). - Hutton, Rifugiati Skovlanesi/ Rivoluzionari, Charhollow. - Il Circolo della Fiamma, società segreta."
+		},
+		{
+			"id": "Pleasure",
+			"name": "Piacere",
+			"description":"- Singer, bagni pubblici, Crow’s Foot. - Harvale Brogan, il Centuralia, locale, Brightstone. - Da Travern negozio di fumo, Coalridge. - Dunridge & Figli stoffe pregiate e sartoria, Nightmarket. - Chef Roselle, il ristorante Prugna Dorata, Le Sei Torri. - Maestro Helleren, Teatro di Spiregarden, Whitecrown. - - Mardin Gull, il Secchio, taverna, Crow’s Foot. - Pux Bolin, la Scimmia insistente, taverna, Nightmarket. - Helene, casinò Cervo Argentato, Silkshore. - Lady Freyla, il fusto dell’Imperatore, bar, Whitecrown. - Avrick, spacciatore di polveri, Barrowcleft. - Rolan Volaris, il Velo, club, Nightmarket. - Madame Tesslyn, la Lanterna Rossa, bordello, Silkshore. - Il negozio di fumo di Travern Coalridge. - Eldrin Prichard, il Cigno d’Argento, casa di piacere, canali di Brightstone. - Gioiello, Usignolo, e Diamante, Vicolo delle Gatte, il Porto."
+		},
+		{
+			"id": "Stupor",
+			"name": "Oblio",
+			"description":"- Mardin Gull, il Secchio, taverna, Crow’s Foot. - Pux Bolin, la Scimmia insistente, taverna, Nightmarket. - Helene, casinò Cervo Argentato, Silkshore. - Lady Freyla, il fusto dell’Imperatore, bar, Whitecrown. - Avrick, spacciatore di polveri, Barrowcleft. - Rolan Volaris, il Velo, club, Nightmarket. - Madame Tesslyn, la Lanterna Rossa, bordello, Silkshore. - Il negozio di fumo di Travern Coalridge. - Eldrin Prichard, il Cigno d’Argento, casa di piacere, canali di Brightstone. - Gioiello, Usignolo, e Diamante, Vicolo delle Gatte, il Porto."
+		},
+		{
+			"id": "Weird",
+			"name": "Stramberie",
+			"description":"- Il proprietario incapucciato di una taverna mezza allagata al Porto. Strani passaggi portano a camere ancora più strane. - Padre Yoren, casa della Signora del Pianto, Le Sei Torri. - “Salia,” uno spirito dei Riconciliati, si sposta da corpo a corpo a piacimento. - Sorella Thorn, gang di predoni delle Terre Morte, Stazione di Gaddoc. - Ojak, venditore Thycherosiano al mercato sui tetti, Silkshore. - Aranna la Benedetta, cultista di un dio perduto, chiatta attraccata in Nightmarket."
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+  "label": "Libretti",
+  "mapping": {
+    "description": "data.description",
+    "experience_clues": "data.experience_clues"
+  },
+
+  "entries": [
+    {
+      "id": "Cutter",
+      "name": "Tagliagole",
+      "description" : "Un combattente pericoloso e intimidatorio. ",
+      "experience_clues": "- Guadagni PE quando affronti una sfida con violenza o coercizione."
+
+    },
+    {
+      "id": "Ghost",
+      "name": "Fantasma",
+      "description" : "Uno spirito incorporeo, assetato di vendetta",
+      "experience_clues": "- Guadagni PE quando infliggi la tua vendetta su quelli che ritieni colpevoli, quando esprimi la tua rabbia o indignazione, quando regoli i conti con qualcosa del tuo retaggio o background."
+
+    },
+    {
+      "id": "Hound",
+      "name": "Segugio",
+      "description" : "Un inseguitore e un cecchino letale",
+      "experience_clues": "- Guadagni PE quando affronti una sfida con appostamento e violenza."
+
+    },
+    {
+      "id": "Hull",
+      "name": "Costrutto",
+      "description" : "Uno spirito che anima una scocca fulminotecnica. ",
+      "experience_clues": "- Guadagni PE quando adempi alle tue funzioni nonostante difficoltà o pericoli, e quando sopprimi o ignori le tue precedenti qualità umane."
+
+    },
+    {
+      "id": "Leech",
+      "name": "Sanguisuga",
+      "description" : "Un tecnico e guastatore",
+      "experience_clues": "- Guadagni PE quando affronti una sfida con competenze tecniche o caos."
+
+    },
+    {
+      "id": "Lurk",
+      "name": "Nebbia",
+      "description" : "Un furtivo infiltratore e scassinatore",
+      "experience_clues": "- Guadagni PE affrontando una sfida con furtività o evasività."
+
+    },
+    {
+      "id": "Slide",
+      "name": "Guanto",
+      "description" : "Una spia e subdolo manipolatore",
+      "experience_clues": "- Guadagni PE affrontando una sfida con l’inganno o la tua influenza."
+
+    },
+    {
+      "id": "Spider",
+      "name": "Ragno",
+      "description" : "Un subdolo pianificatore",
+      "experience_clues": "- Guadagni PE quando affronti una sfida con calcolo e cospirazione. ."
+
+    },
+    {
+      "id": "Vampire",
+      "name": "Vampiro",
+      "description" : "Uno spirito che anima un corpo non-morto",
+      "experience_clues": "- Ottieni PE quando mostri il tuo predominio, o uccidi senza pietà."
+
+    },
+    {
+      "id": "Whisper",
+      "name": "Sussurro",
+      "description" : "Un adepto e tramite arcano",
+      "experience_clues": "- Guadagni PE quando affronti una sfida con conoscenza o con metodi arcani."
+
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "label": "Background",
+  "mapping": {
+    "description": "data.description"
+  },
+
+  "entries": [
+    { "id": "Academic",
+      "name": "Accademia",
+      "description": "uno studioso, un professore o studente dell’Accademia di Doskvol,\nun filosofo o giornalista, ecc." },
+
+    { "id": "Labor",
+      "name": "Manovalanza",
+      "description": "un servitore, un operaio, un vetturino, uno scaricatore di porto,\nun Guardarotaie, ecc. Uno stivatore dalla Compagnia di Punta Nord." },
+
+    { "id": "Law",
+      "name": "Legge",
+      "description": "un avvocato o un magistrato, una Giubba Blu o ispettore (o un Guardiano\ndi Spiriti), una guardia della prigione di Ironhook, ecc." },
+
+    { "id": "Military",
+      "name": "Militare",
+      "description": " un soldato Imperiale o Skovlanese, un mercenario, un agente dei servizi\nsegreti, uno stratega, un addestratore, ecc." },
+
+    { "id": "Noble",
+      "name": "Nobile",
+      "description": "un amatore, un cortigiano, il discendente di una casa caduta in disgrazia, ecc." },
+
+    { "id": "Trade",
+      "name": "Commercio",
+      "description": "un negoziante, un mercante, un abile artigiano, uno spedizioniere, ecc.\nUn agente di collegamento del Ministero della Conservazione." },
+
+    { "id": "Underworld",
+      "name": "Criminalità",
+      "description": "un ragazzo di strada, membro di una gang, giovane teppista, un\nemarginato cresciuto in strada." }
+  ]
+
+}
